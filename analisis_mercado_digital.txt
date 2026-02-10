@@ -64,3 +64,12 @@ Para cerrar esta sesión, imagina una situación real: eres un comerciante que q
 ​C. Stablecoins (USDT/USDC)
 ​¿Qué me dices?
 Exactamente! Las Stablecoins (C) son la herramienta ideal para un comerciante. 🛒 Al estar vinculadas al valor del dólar, puedes recibir el pago hoy y tener la seguridad de que mañana seguirá valiendo lo mismo cuando necesites pagar tus facturas, evitando las subidas y bajadas repentinas del mercado. 🛡️
+# Análisis del Mercado Digital
+
+## 1. Reserva de Valor: Bitcoin (BTC) 🧡
+- **Escasez:** Solo existirán 21 millones.
+- **Función:** Oro digital y ahorro a largo plazo.
+
+## 2. Infraestructura: Ethereum (ETH) 💎
+- **Utilidad:** Gas para ejecutar contratos inteligentes.
+- **Función:** Red para aplicaciones descentralizadas.
