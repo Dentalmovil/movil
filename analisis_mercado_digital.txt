@@ -77,3 +77,5 @@ Exactamente! Las Stablecoins (C) son la herramienta ideal para un comerciante. �
 - **Utilidad:** Se usa como "gas" ⛽ para ejecutar contratos inteligentes.
 - **Función:** Es la red principal para aplicaciones descentralizadas (DApps).
 - **Innovación:** Permite la creación de **NFTs** y finanzas descentralizadas (DeFi).
+> **Advertencia de Seguridad:** 🔑 Nunca compartas tus llaves privadas con nadie. Quien tiene las llaves, tiene el control total de los activos.
+
