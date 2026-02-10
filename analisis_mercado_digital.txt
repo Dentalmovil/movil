@@ -73,3 +73,7 @@ Exactamente! Las Stablecoins (C) son la herramienta ideal para un comerciante. �
 ## 2. Infraestructura: Ethereum (ETH) 💎
 - **Utilidad:** Gas para ejecutar contratos inteligentes.
 - **Función:** Red para aplicaciones descentralizadas.
+## 2. Infraestructura: Ethereum (ETH) 💎
+- **Utilidad:** Se usa como "gas" ⛽ para ejecutar contratos inteligentes.
+- **Función:** Es la red principal para aplicaciones descentralizadas (DApps).
+- **Innovación:** Permite la creación de **NFTs** y finanzas descentralizadas (DeFi).
