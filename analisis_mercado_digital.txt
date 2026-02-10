@@ -88,4 +88,3 @@ Exactamente! Las Stablecoins (C) son la herramienta ideal para un comerciante. �
 | **Bitcoin** | Reserva de valor | Escasez (21M) | Alto (Volátil) |
 | **Ethereum** | Infraestructura | Contratos Inteligentes | Alto (Uso) |
 | **Stablecoins** | Pagos y Refugio | Paridad 1:1 Dólar | Bajo |
-
