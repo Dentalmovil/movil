@@ -104,3 +104,4 @@ git commit -m "Mi primer guardado de la app"
 </body>
 </html>
 git config --global user.name "Dentalmovilr4"
+git config --global user.email "tu-dentalmovilr4@gmail.com"
