@@ -103,3 +103,4 @@ git commit -m "Mi primer guardado de la app"
     </script>
 </body>
 </html>
+git config --global user.name "Dentalmovilr4"
