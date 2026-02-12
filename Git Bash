@@ -5,4 +5,4 @@ git branch -M main
 git remote add origin https://github.com/tu-usuario/tu-proyecto.git
 git push -u origin main
 npm install  # O el comando que corresponda a tu lenguaje
-
+npm start
