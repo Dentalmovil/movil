@@ -19,7 +19,3 @@ Con mi aplicación resolver lo problema que mi laboratorio me presenta en la hor
 
 ## 🚀 Instalación y uso
 
-1. **Clona el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
-
