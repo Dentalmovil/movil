@@ -109,4 +109,8 @@ git commit -m "Mi primer guardado de la app"
 
         gameLoop();
     </script>
+1. **Clona el repositorio:**
+   ```bash
+   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+
 
